@@ -1,0 +1,26 @@
+# Flutter build files
+/build/
+/.flutter-plugins/
+/.dart_tool/
+/**/build/
+/**/.dart_tool/
+
+# Flutter specific files
+**/*.apk
+**/*.ipa
+**/*.app
+**/*.dill
+**/*.so
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# Other common ignored files
+*.log
+*.bak
+*.swp
