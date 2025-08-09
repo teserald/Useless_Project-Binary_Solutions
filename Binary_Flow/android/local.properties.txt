@@ -1,6 +1,0 @@
-sdk.dir=/home/cea/Android/Sdk
-ndk.dir=/home/cea/Android/Sdk/ndk/26.3.11579264
-flutter.sdk=/home/cea/snap/flutter/common/flutter
-flutter.buildMode=debug
-flutter.versionName=1.0.0
-flutter.versionCode=1
